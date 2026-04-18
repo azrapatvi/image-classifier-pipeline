@@ -1,7 +1,7 @@
 import os
 
 # Base folder 
-BASE_DIR = "CENSORX_LOCAL_WORK"
+BASE_DIR = "LOCAL_WORK"
 
 # Folder structure 
 folders = [ 
@@ -24,4 +24,4 @@ def create_structure():
 
 if __name__ == "__main__": 
     create_structure()
-    print("\n CENSORX local structure created successfully!")
+    print("\n local structure created successfully!")
